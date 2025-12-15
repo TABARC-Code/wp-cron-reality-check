@@ -1,0 +1,19 @@
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editors
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# PHP / tooling
+vendor/
+composer.lock
+
+# Node / build tooling (if ever added)
+node_modules/
+npm-debug.log*
+yarn.lock
+.pnp.*
